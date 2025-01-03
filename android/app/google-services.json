@@ -1,0 +1,520 @@
+{
+  "project_info": {
+    "project_number": "511513642938",
+    "firebase_url": "https://tripura-news-officials.firebaseio.com",
+    "project_id": "tripura-news-officials",
+    "storage_bucket": "tripura-news-officials.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511513642938:android:7d6798e414ce770f2cbf83",
+        "android_client_info": {
+          "package_name": "com.insyssky.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwLM7TloC0DaJE4fiYcHRPAyxrM-jXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511513642938-l3aqbkef6umcb1tr9tl2ee8uf1a90n7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripuraNewsOfficial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511513642938:android:1f5e0770a6c20ec72cbf83",
+        "android_client_info": {
+          "package_name": "com.insyssky.app.ajkerfariadofficial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511513642938-96n45612qdej11vj2m9f3frai2fmd7if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.ajkerfariadofficial",
+            "certificate_hash": "dae465c98ab1957aee4f92fc0b77b6a59b18276d"
+          }
+        },
+        {
+          "client_id": "511513642938-bj2fe9ami59etj18nu5152i62rcrhuea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.ajkerfariadofficial",
+            "certificate_hash": "afc1841aa91dcad74740972a2242a83a71ae4b1a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwLM7TloC0DaJE4fiYcHRPAyxrM-jXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511513642938-l3aqbkef6umcb1tr9tl2ee8uf1a90n7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripuraNewsOfficial"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-0173741586299724~6968519217"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511513642938:android:ce1bf197c72d7b1d2cbf83",
+        "android_client_info": {
+          "package_name": "com.insyssky.app.desherkatha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511513642938-f7ib5brf91t3usigp6k2ncvht397qn7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.desherkatha",
+            "certificate_hash": "afc1841aa91dcad74740972a2242a83a71ae4b1a"
+          }
+        },
+        {
+          "client_id": "511513642938-tlfv29t1vc6n8eppbdpa9f27jioujlk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.desherkatha",
+            "certificate_hash": "c3d3669960f62edf0d03317915c53e9cb3a78e23"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwLM7TloC0DaJE4fiYcHRPAyxrM-jXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511513642938-l3aqbkef6umcb1tr9tl2ee8uf1a90n7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripuraNewsOfficial"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-0173741586299724~4982293089"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511513642938:android:b28bd04b33c649bc2cbf83",
+        "android_client_info": {
+          "package_name": "com.insyssky.app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwLM7TloC0DaJE4fiYcHRPAyxrM-jXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511513642938-l3aqbkef6umcb1tr9tl2ee8uf1a90n7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripuraNewsOfficial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511513642938:android:92de4239feffb3642cbf83",
+        "android_client_info": {
+          "package_name": "com.insyssky.app.jagarannewspaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511513642938-bvkq5d66854sbn805v28cgrphqjb1iop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.jagarannewspaper",
+            "certificate_hash": "afc1841aa91dcad74740972a2242a83a71ae4b1a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwLM7TloC0DaJE4fiYcHRPAyxrM-jXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511513642938-l3aqbkef6umcb1tr9tl2ee8uf1a90n7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripuraNewsOfficial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511513642938:android:09a72eb3329d78bb2cbf83",
+        "android_client_info": {
+          "package_name": "com.insyssky.app.kalamersaktinew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511513642938-jt6hbcfjgs6v655n32ptlanu05h81mpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.kalamersaktinew",
+            "certificate_hash": "8cd754abd80c9a8e27ae9d9669065a23d855a9fd"
+          }
+        },
+        {
+          "client_id": "511513642938-vvt3dr5mn4lvg0jh46k3g8vnobf2rq2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.kalamersaktinew",
+            "certificate_hash": "afc1841aa91dcad74740972a2242a83a71ae4b1a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwLM7TloC0DaJE4fiYcHRPAyxrM-jXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511513642938-l3aqbkef6umcb1tr9tl2ee8uf1a90n7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripuraNewsOfficial"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-0173741586299724~6326758095"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511513642938:android:07f72905f707266a2cbf83",
+        "android_client_info": {
+          "package_name": "com.insyssky.app.pratibadikalam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511513642938-mobp0lk848nfejbeui121bc5g5c8n011.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.pratibadikalam",
+            "certificate_hash": "afc1841aa91dcad74740972a2242a83a71ae4b1a"
+          }
+        },
+        {
+          "client_id": "511513642938-v3u4ba2agln7j9esvte474qs9q09nse2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.pratibadikalam",
+            "certificate_hash": "a23e3b80174cde9c748da1639d8bddd0100b6b75"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwLM7TloC0DaJE4fiYcHRPAyxrM-jXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511513642938-l3aqbkef6umcb1tr9tl2ee8uf1a90n7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripuraNewsOfficial"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-0173741586299724~8205423733"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511513642938:android:a4a6f8a5b22ce6002cbf83",
+        "android_client_info": {
+          "package_name": "com.insyssky.app.syandanpatrika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511513642938-teio2kbnnqnramjtn70lo9s1kebovrvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.syandanpatrika",
+            "certificate_hash": "54d22c322df646c1c804efb04472904786944a30"
+          }
+        },
+        {
+          "client_id": "511513642938-v6b9apai7s4h264cq0nhdcf4e7ud3r9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.syandanpatrika",
+            "certificate_hash": "b343888c7b3717370cb1b40e64546f10b1e1731b"
+          }
+        },
+        {
+          "client_id": "511513642938-vbi5uiuif4o66eoj5jbm8c64vifv5fh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.syandanpatrika",
+            "certificate_hash": "766210f0a76fe91c7c30f919abe0d51e45c38a45"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwLM7TloC0DaJE4fiYcHRPAyxrM-jXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511513642938-l3aqbkef6umcb1tr9tl2ee8uf1a90n7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripuraNewsOfficial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511513642938:android:4c498584afa8b28e2cbf83",
+        "android_client_info": {
+          "package_name": "com.insyssky.app.tnoadmin.tno_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511513642938-13a266qgslnt0qfi91op75hvap7v1mpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.tnoadmin.tno_admin",
+            "certificate_hash": "b343888c7b3717370cb1b40e64546f10b1e1731b"
+          }
+        },
+        {
+          "client_id": "511513642938-u69c7cgtk6l393u09jbflk9e9l0qsf2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.tnoadmin.tno_admin",
+            "certificate_hash": "3103d17a35e2b08d70516f6c15660c78325d9d1b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwLM7TloC0DaJE4fiYcHRPAyxrM-jXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511513642938-l3aqbkef6umcb1tr9tl2ee8uf1a90n7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripuraNewsOfficial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511513642938:android:c1c9df4e4eca353c2cbf83",
+        "android_client_info": {
+          "package_name": "com.insyssky.app.tripuradarpan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511513642938-5i2jt5qp8stmt8ndj60k1amlmn3h5p8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.tripuradarpan",
+            "certificate_hash": "afc1841aa91dcad74740972a2242a83a71ae4b1a"
+          }
+        },
+        {
+          "client_id": "511513642938-oujvsed2ul7rn346a9lnponp79cc35rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.tripuradarpan",
+            "certificate_hash": "598d1ff732ae654fe4e2caf6d391fca9cbce5335"
+          }
+        },
+        {
+          "client_id": "511513642938-pde0aq1mdb3h65357t21rr59us1tt1pf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.tripuradarpan",
+            "certificate_hash": "310bd851768a4be658a882daed73696d6d947be9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwLM7TloC0DaJE4fiYcHRPAyxrM-jXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511513642938-l3aqbkef6umcb1tr9tl2ee8uf1a90n7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripuraNewsOfficial"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-0173741586299724~4992224657"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511513642938:android:331dd81ebe323521",
+        "android_client_info": {
+          "package_name": "com.insyssky.app.tripuranewsofficial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511513642938-ad2tn6j3m0vs0fccp5akfomihphjvhua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.app.tripuranewsofficial",
+            "certificate_hash": "e569b7a31cd0253885e404cd84fd2f6ddb6ccbf0"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwLM7TloC0DaJE4fiYcHRPAyxrM-jXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511513642938-l3aqbkef6umcb1tr9tl2ee8uf1a90n7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripuraNewsOfficial"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-0173741586299724~9849390584"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511513642938:android:055a09e5e7475a992cbf83",
+        "android_client_info": {
+          "package_name": "com.insyssky.rashtriyakantha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511513642938-jir1cmomsa7gl4s3ug141c1lp2aqbsvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.rashtriyakantha",
+            "certificate_hash": "4fba89ae1400c02a6cd00b3bef82061c50410dce"
+          }
+        },
+        {
+          "client_id": "511513642938-k7iepgj2e0u0igch4ltria8bl53od6bv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.rashtriyakantha",
+            "certificate_hash": "afc1841aa91dcad74740972a2242a83a71ae4b1a"
+          }
+        },
+        {
+          "client_id": "511513642938-rdhm9nvq1q344o5b3fha052s8auq7ort.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.insyssky.rashtriyakantha",
+            "certificate_hash": "67ff2762e2b2cfc9b3ad218888b118d34ac81139"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwLM7TloC0DaJE4fiYcHRPAyxrM-jXns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511513642938-l3aqbkef6umcb1tr9tl2ee8uf1a90n7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripuraNewsOfficial"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-0173741586299724~3962177572"
+    }
+  ],
+  "configuration_version": "1"
+}

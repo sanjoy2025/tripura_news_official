@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <base href="$FLUTTER_BASE_HREF" />
+  <meta charset="UTF-8" />
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-24FD0ZMQPW"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+
+    gtag("config", "G-24FD0ZMQPW");
+  </script>
+
+   <!-- Google Maps API -->
+   <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyApU8L3y…0HIvXW0JyGlf_Hg" loading="lazy"></script>
+
+
+  <!-- Firebase Dependencies -->
+  <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.4.1/firebase-messaging.js"></script>
+  <script src="https://meet.jit.si/external_api.js" type="application/javascript"></script>
+
+  <!-- Metadata -->
+  <title>Tripura News Official</title>
+  <meta name="description" content="Explore the famous wonders of the world." />
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible" />
+      <!-- Google One Tap -->
+  <!-- <script src="https://accounts.google.com/gsi/client" async defer></script> -->
+  <meta name="google-signin-client_id" content="949798967606-04tmj5i3fcichog6u5qme4k4rn9su0ah.apps.googleusercontent.com">
+
+  <!--<meta name="google-signin-client_id"
+     content="949798967606-04tmj5i3fcichog6u5qme4k4rn9su0ah.apps.googleusercontent.com" /> -->
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="apple-mobile-web-app-title" content="flutter_wonders_app" />
+  <link rel="apple-touch-icon" href="icons/Icon-192.png" />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png" />
+
+  <!-- Croppie -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/croppie/2.6.5/croppie.css" />
+  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/exif-js/2.3.0/exif.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/croppie/2.6.5/croppie.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.338/pdf.min.js"></script>
+  <script type="text/javascript">
+    pdfjsLib.GlobalWorkerOptions.workerSrc =
+      "//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.338/pdf.worker.min.js";
+  </script>
+
+  <!-- Splashscreen -->
+  <style>
+    .loading {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      background-color: #FFFFFF;
+    }
+    
+    .loader {
+      position: relative;
+      width: 40px;
+      height: 40px;
+    }
+    
+    .loading-dot {
+      position: absolute;
+      width: 8px;
+      height: 8px;
+      background: #1A73E8;
+      border-radius: 50%;
+      animation: loading 2s infinite;
+    }
+    
+    .loading-dot:nth-child(1) {
+      animation-delay: 0.1s;
+    }
+    
+    .loading-dot:nth-child(2) {
+      animation-delay: 0.2s;
+    }
+    
+    .loading-dot:nth-child(3) {
+      animation-delay: 0.3s;
+    }
+    
+    @keyframes loading {
+      0%, 100% {
+        transform: translate(0, 0);
+      }
+      25% {
+        transform: translate(16px, 0);
+      }
+      50% {
+        transform: translate(16px, 16px);
+      }
+      75% {
+        transform: translate(0, 16px);
+      }
+    }
+  </style>
+  <!-- This script adds the flutter initialization JS code -->
+  <script src="flutter.js" defer></script>
+
+  <!-- Updated Service Worker Version -->
+  <script>
+    // Use the template token for service worker version
+    var serviceWorkerVersion = "54554";
+  </script>
+
+
+</head>
+
+<body>
+  <div id="loading" class="loading">
+    <div class="loader">
+      <div class="loading-dot"></div>
+      <div class="loading-dot"></div>
+      <div class="loading-dot"></div>
+    </div>
+  </div>
+
+  <script>
+        {{flutter_js}}
+        {{flutter_build_config}}
+    window.addEventListener("load", function () {
+      // Ensure _flutter is defined and has buildConfig
+      if (typeof _flutter !== 'undefined' && _flutter.buildConfig) {
+        _flutter.loader.load({
+          serviceWorker: {
+            serviceWorkerVersion: "{{flutter_service_worker_version}}",
+          },
+          onEntrypointLoaded: function (engineInitializer) {
+            engineInitializer.initializeEngine().then(function (appRunner) {
+              appRunner.runApp();
+            });
+          },
+        });
+      } else {
+        console.error("Flutter build configuration is not set.");
+      }
+    });
+  </script>
+  
+
+  <script>
+    window.onload = function () {
+      setTimeout(function () {
+        var loadingIndicator = document.getElementById("loading_indicator");
+        if (loadingIndicator) {
+          loadingIndicator.remove();
+        }
+      }, 10000);
+    };
+  </script>
+
+  <script>
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", function () {
+        navigator.serviceWorker.register("/firebase-messaging-sw.js");
+      });
+    }
+  </script>
+</body>
+
+</html>
